@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "BEB",
+        "USU"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone_block"
+        },
+        "C": {
+            "item": "minecraft:coal"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "U": {
+            "item": "minecraft:coal_block"
+        },
+        "S": {
+            "item": "minecraft:soul_sand"
+        }
+    },
+    "result": {
+        "id": "minecraft:wither_skeleton_spawn_egg",
+        "count": 1
+    }
+}

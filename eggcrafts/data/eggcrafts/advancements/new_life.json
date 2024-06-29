@@ -1,0 +1,41 @@
+{
+    "parent": "minecraft:adventure/root",
+    "criteria": {
+        "has_item" : {
+            "conditions" : {
+                "items" : [
+                    {"items": "minecraft:spawner"}
+                ]
+            },
+
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+
+    "display": {
+        "title": {
+            "text": "New Life",
+            "color": "dark_purple"
+        },
+        "description": {
+            "text": "You did it."
+        },
+        "icon": {
+            "id": "minecraft:spawner"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    
+    "requirements": [
+        [
+            "has_item"
+        ]
+    ],
+
+    "rewards": {
+        "experience": 100
+    }
+}

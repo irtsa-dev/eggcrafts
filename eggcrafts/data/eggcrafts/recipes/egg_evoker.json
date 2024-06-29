@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "S": {
+            "item": "minecraft:soul_sand"
+        }
+    },
+    "result": {
+        "id": "minecraft:evoker_spawn_egg",
+        "count": 1
+    }
+}

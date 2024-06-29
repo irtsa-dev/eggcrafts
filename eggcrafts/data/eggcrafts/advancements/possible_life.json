@@ -1,0 +1,59 @@
+{
+    "parent" : "minecraft:recipes/root",
+    "criteria" : {
+        "has_items" : {
+            "conditions" : {
+                "items" : [
+                    {"items": "minecraft:egg"},
+                    {"items": "minecraft:soul_sand"}
+                ]
+            },
+
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+
+    "requirements": [
+        [
+            "has_items"
+        ]
+    ],
+
+    "rewards": {
+        "recipes": [
+            "eggcrafts:egg_bee",
+            "eggcrafts:egg_blaze",
+            "eggcrafts:egg_cavespider",
+            "eggcrafts:egg_chicken",
+            "eggcrafts:egg_cod",
+            "eggcrafts:egg_cow",
+            "eggcrafts:egg_creeper",
+            "eggcrafts:egg_enderman",
+            "eggcrafts:egg_evoker",
+            "eggcrafts:egg_ghast",
+            "eggcrafts:egg_glowsquid",
+            "eggcrafts:egg_guardian",
+            "eggcrafts:egg_irongolem",
+            "eggcrafts:egg_magmacube",
+            "eggcrafts:egg_mooshroom",
+            "eggcrafts:egg_panda",
+            "eggcrafts:egg_phantom",
+            "eggcrafts:egg_pig",
+            "eggcrafts:egg_piglin",
+            "eggcrafts:egg_pufferfish",
+            "eggcrafts:egg_rabbit",
+            "eggcrafts:egg_salmon",
+            "eggcrafts:egg_sheep",
+            "eggcrafts:egg_shulker",
+            "eggcrafts:egg_skeleton",
+            "eggcrafts:egg_slime",
+            "eggcrafts:egg_spider",
+            "eggcrafts:egg_squid",
+            "eggcrafts:egg_tropicalfish",
+            "eggcrafts:egg_villager",
+            "eggcrafts:egg_witch",
+            "eggcrafts:egg_witherskeleton",
+            "eggcrafts:egg_zombie"
+        ]
+    }
+}
