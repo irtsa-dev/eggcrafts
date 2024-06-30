@@ -2,6 +2,17 @@
     <img src="https://github.com/irtsa-dev/eggcrafts/assets/139963912/a06f4f5d-18c4-4022-8acf-a7df0502a166"
         height="300">
 </p>
+<p align="center">
+<a href="https://github.com/irtsa-dev/eggcrafts/releases/tag/v1.0.0">
+        <img src="https://img.shields.io/badge/release-1.0.0-brightgreen"
+            alt="release"></a>
+<a href="https://github.com/irtsa-dev/eggcrafts/issues">
+        <img src="https://custom-icon-badges.demolab.com/github/issues-raw/irtsa-dev/eggcrafts?logo=issue"
+            alt="issues"></a>
+<a href="https://github.com/irtsa-dev/eggcrafts/pulls">
+        <img src="https://custom-icon-badges.demolab.com/github/issues-pr/irtsa-dev/eggcrafts?logo=git-pull-request"
+            alt="pulls"></a>
+</p>
 <br />
 <br />
 <br />
