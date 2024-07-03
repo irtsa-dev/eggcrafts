@@ -2,6 +2,13 @@
     <img src="https://github.com/irtsa-dev/eggcrafts/assets/139963912/a06f4f5d-18c4-4022-8acf-a7df0502a166"
         height="300">
 </p>
+<br />
+<br />
+<p align="center">
+<a href="https://modrinth.com/datapack/eggcrafts">
+        <img src="https://img.shields.io/badge/Modrinth-white?logo=modrinth&logoColor=00AF5C"
+            alt="release" height=35></a>
+</p>
 <p align="center">
 <a href="https://github.com/irtsa-dev/eggcrafts/releases/tag/v1.0.0">
         <img src="https://img.shields.io/badge/release-1.0.0-brightgreen"
